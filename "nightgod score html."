@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<h1>English,Mathematics and Biology</h1>
+
+<table border="1px"
+ <thead>
+  <tr>
+   <th>SUBJECTS</th>
+   <th>GRADE</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>English</td>
+   <td>B2</td>
+  </tr>
+  <tr>
+   <td>Mathematics</td>
+   <td>A1</td>
+  </tr>
+  <tr>
+   <td>Biology</td>
+   <td>C3</td>
+  </tr>
+ </tbody>
+</table>
+</body>
+</html>
